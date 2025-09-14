@@ -18,7 +18,7 @@ Styling with Bootstrap and custom CSS
 
 
 ## 📸 Screenshot
-<img width="955" height="1645" alt="screenshot png" src="https://github.com/user-attachments/assets/b20b7483-a486-4dc9-a79b-7ee30b9aa17e" />
+<img width="400" height="800" alt="screenshot png" src="https://github.com/user-attachments/assets/b20b7483-a486-4dc9-a79b-7ee30b9aa17e" />
 
 🔹 Features
 
