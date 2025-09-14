@@ -16,8 +16,9 @@ Mapping user-friendly symbols (x, ÷) into JavaScript operators (*, /)
 
 Styling with Bootstrap and custom CSS
 
+
 ## 📸 Screenshot
-![Calculator Screenshot](assets/screenshot.png)
+<img width="955" height="1645" alt="screenshot png" src="https://github.com/user-attachments/assets/b20b7483-a486-4dc9-a79b-7ee30b9aa17e" />
 
 🔹 Features
 
