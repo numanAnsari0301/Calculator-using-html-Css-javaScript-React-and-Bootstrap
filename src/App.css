@@ -1,0 +1,95 @@
+.main-box{
+  text-align: center;
+  margin:20px auto auto auto;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: rgb(80, 86, 86);
+  width: 450px;
+}
+h1{
+  font-weight: bolder;
+  color: rgb(0, 0, 0);
+}
+h1 p{
+  font-weight: bold;
+  font-size: small;
+}
+hr{
+  color: black;
+  border: 2px solid rgb(11, 13, 12);
+}
+.row{
+  display: flex;
+
+}
+#display{
+  width: 90%;
+  height: 80px;
+  padding-left: 10px;
+  margin-top: auto;
+  border: 2px solid rgb(13, 13, 13);
+  border-radius: 7px;
+  background-color: rgb(3, 245, 245);
+  font-size:3ch;
+  /* font-weight: bolder; */
+}
+#display:hover{
+  width: 90%;
+  height: 80px;
+  margin-top: auto;
+  border: 2px solid rgb(28, 42, 189);
+  border-radius: 7px;
+  background-color: rgba(3, 245, 245, 0.818);
+  padding-left: 10px;
+}
+
+/* for btn container */
+.btn-container{
+  margin:20px 10px 25px 25px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+
+/* clear-button */
+#Clear{
+  background-color: rgb(224, 18, 18);
+ }
+#Clear:hover{
+  background-color:rgba(238, 9, 9, 0.689);
+ }
+
+/* for each buttons */
+.btn{ 
+  border: 2px solid rgb(215, 204, 204);
+  color: rgb(4, 5, 5);
+  background-color: rgb(196, 208, 208);
+  width: 75px;
+  height: 75px;
+  margin: 10px 15px;
+  font-size: larger;
+  font-weight:600;
+  border-radius: 10%;
+}
+.btn:hover{
+  border: 2px solid rgb(22, 22, 22);
+  color: rgb(4, 5, 5);
+  background-color: rgba(240, 255, 255, 0.825);
+  width: 75px;
+  height: 75px;
+  margin: 10px 15px;
+  border-radius: 15%;
+}
+.equal{
+ background-color: rgb(18, 173, 101);
+}
+.equal:hover{
+ background-color:rgba(5, 171, 94, 0.689) ;
+}
+
+footer{
+  font-weight: bold;
+  color: black;
+  font-size: small;
+}
