@@ -10,7 +10,8 @@ Mapping user-friendly symbols (x, ÷) into JavaScript operators (*, /)
 Styling with Bootstrap and custom CSS
 
 **## 📸 Screenshot**
-<img width="300" height="850" alt="screenshot png" src="https://github.com/user-attachments/assets/bbefdc1b-90e6-4683-afe9-17ea96a05b29" />
+
+<img width="300" height="750" alt="screenshot png" src="https://github.com/user-attachments/assets/bbefdc1b-90e6-4683-afe9-17ea96a05b29" />
 
 **🔹 Features
 **
